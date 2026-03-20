@@ -21,7 +21,7 @@
 <div align="center">
   <img
     src="zoro-king-of-hell.gif"
-    width="100%"
+    width="50%"
     alt="Roronoa Zoro — King of Hell"
   />
 </div>
@@ -109,9 +109,9 @@ const ZoroSango = {
   swords:    ["Wado Ichimonji", "Sandai Kitetsu", "Enma"],
 
   developer: {
-    name:      "YOUR NAME HERE",              // ← your real name
+    name:      "Samuel Dharshi",              // ← your real name
     alias:     "The One Who Never Gets Lost", // ← your tagline
-    dojo:      "YOUR COLLEGE / ORG",          // ← your institution
+    dojo:      "LICET",          // ← your institution
     vow:       "I will become the world's greatest.",
     training:  ["AI", "Blockchain", "DeFi", "Web3", "Cybersecurity", "Full Stack"],
   },
