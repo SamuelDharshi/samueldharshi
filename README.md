@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=38&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+YOUR+NAME+HERE+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I'LL+NEVER+LOSE+AGAIN." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=38&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I'LL+NEVER+LOSE+AGAIN." alt="Typing SVG" />
 </div>
 
 <div align="center">
