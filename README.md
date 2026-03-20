@@ -36,7 +36,7 @@
      Color: C0C0C0 = steel silver, matches the blade palette
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." alt="Name typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." />
 </div>
 
 <!-- ──────────────────────────────────────────────────────────
@@ -69,9 +69,9 @@
 ███████╗  ╚██████╔╝  ██║  ██║  ╚██████╔╝
 ╚══════╝   ╚═════╝   ╚═╝  ╚═╝   ╚═════╝
 
-   IDENTITY  :  YOUR NAME HERE
+   IDENTITY  :  Samuel Dharshi
    ALIAS     :  The Developer Who Never Gets Lost (he does)
-   DOJO      :  YOUR COLLEGE / ORGANIZATION
+   DOJO      :  LICET
    DOMAIN    :  AI • Web3 • Blockchain • Cybersecurity • Full Stack
    STATUS    :  Training. Always training.
 ```
@@ -221,7 +221,7 @@ const ZoroSango = {
 
 <!-- ──────────────────────────────────────────────────────────
      GITHUB STATS
-     Replace YOUR_GITHUB_USERNAME (×3) with your handle.
+     Replace SamuelDharshi(×3) with your handle.
      
      CARD COLORS:
      bg_color     = 0a0a14   → same dark steel as badge backgrounds
