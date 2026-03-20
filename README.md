@@ -20,7 +20,7 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/SamuelDharshi/SamuelDharshi/main/assets/zoro-king-of-hell.gif"
+    src="zoro-king-of-hell.gif"
     width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
@@ -36,7 +36,7 @@
      Color: C0C0C0 = steel silver, matches the blade palette
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+YOUR+NAME+HERE+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." alt="Name typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." alt="Name typing animation" />
 </div>
 
 <!-- ──────────────────────────────────────────────────────────
