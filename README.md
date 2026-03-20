@@ -15,7 +15,7 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/zoro-banner.jpg"
+    src=""
     width="100%"
     alt="Roronoa Zoro"
   />
@@ -62,7 +62,7 @@
         ██║  ██║  ██║██║ ╚████║╚██████╔╝██╗
         ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
 
-   IDENTITY  :  YOUR NAME HERE
+   IDENTITY  :  Samuel Dharshi 
    ALIAS     :  The Developer Who Never Gets Lost (he does)
    DOJO      :  YOUR COLLEGE / ORGANIZATION
    DOMAIN    :  AI • Web3 • Blockchain • Cybersecurity • Full Stack
@@ -102,9 +102,9 @@ const ZoroSango = {
   swords:    ["Wado Ichimonji", "Sandai Kitetsu", "Enma"],
 
   developer: {
-    name:      "YOUR NAME HERE",              // ← your real name
+    name:      "Samuel Dharshi",              // ← your real name
     alias:     "The One Who Never Gets Lost", // ← your tagline
-    dojo:      "YOUR COLLEGE / ORG",          // ← your institution
+    dojo:      "LICET",          // ← your institution
     vow:       "I will become the world's greatest.",
     training:  ["AI", "Blockchain", "DeFi", "Web3", "Cybersecurity", "Full Stack"],
   },
@@ -214,7 +214,7 @@ const ZoroSango = {
 
 <!-- ──────────────────────────────────────────────────────────
      GITHUB STATS
-     Replace YOUR_GITHUB_USERNAME (×3) with your handle.
+     Replace SamuelDharshi (×3) with your handle.
      
      CARD COLORS:
      bg_color     = 0a0a14   → same dark steel as badge backgrounds
@@ -230,7 +230,7 @@ const ZoroSango = {
 
   <!-- Stats card (left) + Streak card (right) — side by side -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=SamuelDharshi&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img height="180em"
@@ -244,7 +244,7 @@ const ZoroSango = {
 
   <!-- Top languages card — compact layout, same color scheme -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDharshi&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
     alt="Top Languages"
   />
 
