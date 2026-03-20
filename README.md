@@ -20,7 +20,7 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/zoro-king-of-hell.gif"
+    src="https://raw.githubusercontent.com/SamuelDharshi/SamuelDharshi/main/assets/zoro-king-of-hell.gif"
     width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
@@ -60,12 +60,14 @@
 <div align="center">
 
 ```
-     ███████╗ █████╗ ███╗   ██╗ ██████╗ ██╗
-     ╚════██║██╔══██╗████╗  ██║██╔════╝ ██║
-         ██╔╝███████║██╔██╗ ██║██║  ███╗██║
-        ██╔╝ ██╔══██║██║╚██╗██║██║   ██║╚═╝
-        ██║  ██║  ██║██║ ╚████║╚██████╔╝██╗
-        ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
+███████╗   ██████╗   ██████╗    ██████╗
+╚════██║  ██╔═══██╗  ██╔══██╗  ██╔═══██╗
+    ██╔╝  ██║   ██║  ██████╔╝  ██║   ██║
+   ██╔╝   ██║   ██║  ██╔══██╗  ██║   ██║
+  ██╔╝    ██║   ██║  ██║  ██║  ██║   ██║
+ ██╔╝     ██║   ██║  ██║  ██║  ██║   ██║
+███████╗  ╚██████╔╝  ██║  ██║  ╚██████╔╝
+╚══════╝   ╚═════╝   ╚═╝  ╚═╝   ╚═════╝
 
    IDENTITY  :  YOUR NAME HERE
    ALIAS     :  The Developer Who Never Gets Lost (he does)
