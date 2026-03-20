@@ -15,7 +15,7 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="https://github.com/SamuelDharshi/samueldharshi/blob/main/zoro/Zoro-King-Of-Hell.mp4"
+    src="Zoro-King-Of-Hell.mp4"
     width="100%"
     alt="Roronoa Zoro"
   />
