@@ -6,18 +6,23 @@
 
 
 <!-- ──────────────────────────────────────────────────────────
-     HEADER IMAGE (16:9 horizontal Zoro banner)
-     → Upload a Zoro image to your repo's assets/ folder
-       then replace the src below. Example path:
-       src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/zoro-banner.jpg"
-     → Do NOT use random wallpaper site URLs — they break on GitHub.
-     → Recommended: wide cinematic Zoro cut (Wano arc works great)
+     HEADER GIF — Zoro King of Hell (converted from your video)
+     
+     HOW TO UPLOAD THIS GIF TO YOUR PROFILE:
+     1. In your GitHub profile repo (username/username), create an
+        "assets" folder if it doesn't exist
+     2. Upload "zoro-king-of-hell.gif" (the file I gave you) into it
+     3. Replace YOUR_USERNAME below with your actual GitHub username
+     
+     The raw.githubusercontent.com URL is the only reliable way
+     to embed repo images in a README — do NOT use the normal
+     GitHub file page URL (it won't render).
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="Zoro-King-Of-Hell.mp4"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/zoro-king-of-hell.gif"
     width="100%"
-    alt="Roronoa Zoro"
+    alt="Roronoa Zoro — King of Hell"
   />
 </div>
 
@@ -62,7 +67,7 @@
         ██║  ██║  ██║██║ ╚████║╚██████╔╝██╗
         ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
 
-   IDENTITY  :  Samuel Dharshi 
+   IDENTITY  :  YOUR NAME HERE
    ALIAS     :  The Developer Who Never Gets Lost (he does)
    DOJO      :  YOUR COLLEGE / ORGANIZATION
    DOMAIN    :  AI • Web3 • Blockchain • Cybersecurity • Full Stack
@@ -102,9 +107,9 @@ const ZoroSango = {
   swords:    ["Wado Ichimonji", "Sandai Kitetsu", "Enma"],
 
   developer: {
-    name:      "Samuel Dharshi",              // ← your real name
+    name:      "YOUR NAME HERE",              // ← your real name
     alias:     "The One Who Never Gets Lost", // ← your tagline
-    dojo:      "LICET",          // ← your institution
+    dojo:      "YOUR COLLEGE / ORG",          // ← your institution
     vow:       "I will become the world's greatest.",
     training:  ["AI", "Blockchain", "DeFi", "Web3", "Cybersecurity", "Full Stack"],
   },
@@ -214,7 +219,7 @@ const ZoroSango = {
 
 <!-- ──────────────────────────────────────────────────────────
      GITHUB STATS
-     Replace SamuelDharshi (×3) with your handle.
+     Replace YOUR_GITHUB_USERNAME (×3) with your handle.
      
      CARD COLORS:
      bg_color     = 0a0a14   → same dark steel as badge backgrounds
@@ -230,7 +235,7 @@ const ZoroSango = {
 
   <!-- Stats card (left) + Streak card (right) — side by side -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SamuelDharshi&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img height="180em"
@@ -244,7 +249,7 @@ const ZoroSango = {
 
   <!-- Top languages card — compact layout, same color scheme -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDharshi&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
     alt="Top Languages"
   />
 
