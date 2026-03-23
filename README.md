@@ -27,7 +27,7 @@
 </div>
 
 <br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SamuelDharshi&label=Profile%20views&color=D50000&style=flat" alt="Samuel Dharshi" /> </p>
 <!-- ──────────────────────────────────────────────────────────
      NAME + TYPING ANIMATION
      Line 1 = your name (replace YOUR NAME HERE)
