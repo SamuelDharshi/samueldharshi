@@ -269,10 +269,10 @@ const ZoroSango = {
 <div align="center">
 
   <!-- Replace href values below with your real profile URLs -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a14?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&label=PROFESSIONAL)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-0a0a14?style=for-the-badge&logo=gmail&logoColor=C0C0C0&label=CONTACT)](mailto:YOUR_EMAIL@gmail.com)
-  [![Twitter/X](https://img.shields.io/badge/Twitter-0a0a14?style=for-the-badge&logo=x&logoColor=C0C0C0&label=X)](https://x.com/YOUR_TWITTER)
-  [![Discord](https://img.shields.io/badge/Discord-0a0a14?style=for-the-badge&logo=discord&logoColor=C0C0C0&label=YOUR_DISCORD_TAG)](https://discord.gg/YOUR_INVITE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a14?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&label=PROFESSIONAL)](https://linkedin.com/in/samueldharshi)
+  [![Email](https://img.shields.io/badge/Email-0a0a14?style=for-the-badge&logo=gmail&logoColor=C0C0C0&label=CONTACT)](mailto:samueldharshi@gmail.com)
+  [![Twitter/X](https://img.shields.io/badge/Twitter-0a0a14?style=for-the-badge&logo=x&logoColor=C0C0C0&label=X)](https://x.com/samueldharshi)
+  [![Discord](https://img.shields.io/badge/Discord-0a0a14?style=for-the-badge&logo=discord&logoColor=C0C0C0&label=samueldharshi)](https://discord.gg/YOUR_INVITE)
 
 </div>
 
@@ -300,6 +300,6 @@ const ZoroSango = {
 ```
 
   <!-- Profile view counter — replace YOUR_GITHUB_USERNAME -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=708090&style=for-the-badge&label=SCOUTED+BY)
+  ![Profile Views](https://komarev.com/ghpvc/?username=SamuelDharshicolor=708090&style=for-the-badge&label=SCOUTED+BY)
 
 </div>
