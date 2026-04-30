@@ -38,7 +38,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." />
 </div>
-
 <!-- ──────────────────────────────────────────────────────────
      SUBTITLE TYPING
      Edit the lines= param to match your actual domains.
