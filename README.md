@@ -236,11 +236,11 @@ const ZoroSango = {
 
   <!-- Stats card (left) + Streak card (right) — side by side -->
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=SamuelDharhi&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=0a0a14&border=2a2a3e&fire=C0C0C0&currStreakNum=FFFFFF&ring=708090&currStreakLabel=C0C0C0&sideNums=708090&sideLabels=708090&dates=4a4a5e"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDharshi&background=0a0a14&border=2a2a3e&fire=C0C0C0&currStreakNum=FFFFFF&ring=708090&currStreakLabel=C0C0C0&sideNums=708090&sideLabels=708090&dates=4a4a5e"
     alt="GitHub Streak"
   />
 
@@ -250,7 +250,7 @@ const ZoroSango = {
 
   <!-- Top languages card — compact layout, same color scheme -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDharshi&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
     alt="Top Languages"
   />
 
@@ -271,7 +271,7 @@ const ZoroSango = {
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a14?style=for-the-badge&logo=linkedin&logoColor=C0C0C0&label=PROFESSIONAL)](https://linkedin.com/in/samueldharshi)
   [![Email](https://img.shields.io/badge/Email-0a0a14?style=for-the-badge&logo=gmail&logoColor=C0C0C0&label=CONTACT)](mailto:samueldharshi@gmail.com)
   [![Twitter/X](https://img.shields.io/badge/Twitter-0a0a14?style=for-the-badge&logo=x&logoColor=C0C0C0&label=X)](https://x.com/samueldharshi)
-  [![Discord](https://img.shields.io/badge/Discord-0a0a14?style=for-the-badge&logo=discord&logoColor=C0C0C0&label=samueldharshi)](https://discord.gg/YOUR_INVITE)
+  [![Discord](https://img.shields.io/badge/Discord-0a0a14?style=for-the-badge&logo=discord&logoColor=C0C0C0&label=samueldharshi)](https://discord.gg/samueldharshi)
 
 </div>
 
