@@ -20,8 +20,8 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="zoro-king-of-hell.gif"
-    width="50%"
+    src="profile/0b4018a9ba3254bf6f0028f5a5c3dbf8.jpg"
+    width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
 </div>
@@ -181,7 +181,13 @@ const ZoroSango = {
 </div>
 
 ---
-
+<div align="center">
+  <img
+    src="zoro-king-of-hell.gif"
+    width="50%"
+    alt="Roronoa Zoro — King of Hell"
+  />
+</div>
 <!-- ──────────────────────────────────────────────────────────
      GITHUB STATS
      Replace SamuelDharshi(×3) with your handle.
