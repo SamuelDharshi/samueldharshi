@@ -1,23 +1,3 @@
-<!-- ============================================================
-     ZORO GITHUB PROFILE README
-     Replace every YOUR_... placeholder before pushing.
-     Section breakdown is commented throughout.
-============================================================ -->
-
-
-<!-- ──────────────────────────────────────────────────────────
-     HEADER GIF — Zoro King of Hell (converted from your video)
-     
-     HOW TO UPLOAD THIS GIF TO YOUR PROFILE:
-     1. In your GitHub profile repo (username/username), create an
-        "assets" folder if it doesn't exist
-     2. Upload "zoro-king-of-hell.gif" (the file I gave you) into it
-     3. Replace YOUR_USERNAME below with your actual GitHub username
-     
-     The raw.githubusercontent.com URL is the only reliable way
-     to embed repo images in a README — do NOT use the normal
-     GitHub file page URL (it won't render).
-────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
     src="profile/newroronoa.png"
@@ -111,22 +91,6 @@ const ZoroSango = {
 
 ---
 
-<!-- ──────────────────────────────────────────────────────────
-     TECH STACK SECTION
-     Split into 4 themed "blade" categories — each named after
-     actual Zoro lore (swords + Haki).
-     
-     COLOR LOGIC (for all badges):
-     bg         = 0a0a14 / 0d0d1a / 111122  → dark steel variants
-     logoColor  = C0C0C0 / 708090 / 9aa5b4  → steel silver variants
-     This gives a unified cold-steel look. Do NOT add colorful badges.
-     
-     BLADE NAMING LOGIC:
-     Wado Ichimonji → Core Languages  (his first and purest sword)
-     Sandai Kitetsu → Full Stack      (cursed blade = powerful but risky)
-     Enma           → Blockchain & AI (demon blade = hardest to master)
-     Haki           → Infrastructure  (invisible power under everything)
-────────────────────────────────────────────────────────────── -->
 ## 🗡️ ARSENAL — THE THREE BLADES
 <!-- Blade 1: Core Languages (Wado = clean, pure, foundational) -->
 <div align="center">
@@ -165,7 +129,9 @@ const ZoroSango = {
   ![GitHub](https://img.shields.io/badge/GitHub-111122?style=for-the-badge&logo=github&logoColor=ffffff)
   ![VS Code](https://img.shields.io/badge/VS%20Code-111122?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 </div>
+
 ---
+
 <div align="center">
 
 > *"I'll never lose again. I'll never be defeated again. I can't afford to be."*
@@ -173,6 +139,8 @@ const ZoroSango = {
 > — **Roronoa Zoro**, Baratie Arc
 
 </div>
+
+---
 
 <div align="center">
   <img
@@ -182,6 +150,7 @@ const ZoroSango = {
   />
 </div>
 
+---
 
 ## 📊 BATTLE RECORDS — GITHUB STATS
  
@@ -196,10 +165,13 @@ const ZoroSango = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SamuelDharshi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
+
+ ---
  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDharshi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
+
 ---
 
 🌐 Connect With Me
@@ -218,4 +190,3 @@ const ZoroSango = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </p>
 
----
