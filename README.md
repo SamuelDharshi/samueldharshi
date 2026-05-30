@@ -20,7 +20,7 @@
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
   <img
-    src="profile/roronoa.jpg"
+    src="profile/newroronoa.png"
     width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
