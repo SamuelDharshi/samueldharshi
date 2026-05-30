@@ -150,29 +150,18 @@ const ZoroSango = {
   />
 </div>
 
----
-
 ## 📊 BATTLE RECORDS — GITHUB STATS
  
 <div align="center">
-  <a href="https://github.com/SamuelDharshi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelDharshi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-  </a>
-  <a href="https://github.com/SamuelDharshi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDharshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-  </a>
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SamuelDharshi&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelDharshi&show_icons=true&bg_color=0a0a14&title_color=00FF41&text_color=C0C0C0&icon_color=00FF41&border_color=00FF41&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=SamuelDharshi&background=0a0a14&border=00FF41&fire=00FF41&currStreakNum=C0C0C0&ring=00FF41&currStreakLabel=00FF41&sideNums=C0C0C0&sideLabels=00FF41&dates=708090&stroke=0a0a14&border_radius=10"/>
 </div>
 
- ---
  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDharshi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
----
 
 🌐 Connect With Me
 <p align="center">
