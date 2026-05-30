@@ -40,7 +40,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=800&lines=AI+%E2%80%A2+Generative+AI+%E2%80%A2+Full+Stack+%E2%80%A2+Hackathon+Winner;Nothing+happened." />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=800&lines=AI+%E2%80%A2+Generative+AI+%E2%80%A2+Full+Stack+%E2%80%A2;Nothing+happened." />
 </div>
 
 <br/>
