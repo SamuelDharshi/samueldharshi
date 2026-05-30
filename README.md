@@ -165,13 +165,7 @@ const ZoroSango = {
   ![GitHub](https://img.shields.io/badge/GitHub-111122?style=for-the-badge&logo=github&logoColor=ffffff)
   ![VS Code](https://img.shields.io/badge/VS%20Code-111122?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 </div>
-
-<!-- ──────────────────────────────────────────────────────────
-     ZORO QUOTE #2
-     Source: Baratie arc — said after Mihawk cut him down and
-     Zoro made his vow to Luffy on the ocean.
-     This is Zoro's founding oath. Cold, absolute, no emotion.
-────────────────────────────────────────────────────────────── -->
+---
 <div align="center">
 
 > *"I'll never lose again. I'll never be defeated again. I can't afford to be."*
@@ -179,27 +173,15 @@ const ZoroSango = {
 > — **Roronoa Zoro**, Baratie Arc
 
 </div>
-
 ---
 <div align="center">
   <img
-    src="zoro-king-of-hell.gif"
-    width="50%"
+    src="profile/zororo.png"
+    width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
 </div>
-<!-- ──────────────────────────────────────────────────────────
-     GITHUB STATS
-     Replace SamuelDharshi(×3) with your handle.
-     
-     CARD COLORS:
-     bg_color     = 0a0a14   → same dark steel as badge backgrounds
-     title_color  = C0C0C0   → steel silver for headings
-     text_color   = 708090   → slate steel for body text
-     icon_color   = 708090   → matching slate for icons
-     border_color = 2a2a3e   → subtle dark border (not invisible)
-     fire (streak)= C0C0C0   → silver fire instead of orange, stays on theme
-────────────────────────────────────────────────────────────── -->
+---
 
 ## 📊 BATTLE RECORDS — GITHUB STATS
  
@@ -219,11 +201,6 @@ const ZoroSango = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelDharshi&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 ---
-<!-- ──────────────────────────────────────────────────────────
-     CONTACT SECTION
-     Replace every href and label= with your real links.
-     Badge style: 0a0a14 bg + C0C0C0 logo = stays on-theme.
-────────────────────────────────────────────────────────────── -->
 
 🌐 Connect With Me
 <p align="center">
