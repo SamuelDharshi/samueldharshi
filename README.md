@@ -173,15 +173,15 @@ const ZoroSango = {
 > — **Roronoa Zoro**, Baratie Arc
 
 </div>
----
+
 <div align="center">
   <img
-    src="profile/zororo.png"
+    src="zororo.png"
     width="100%"
     alt="Roronoa Zoro — King of Hell"
   />
 </div>
----
+
 
 ## 📊 BATTLE RECORDS — GITHUB STATS
  
