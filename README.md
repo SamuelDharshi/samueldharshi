@@ -36,17 +36,17 @@
      Color: C0C0C0 = steel silver, matches the blade palette
 ────────────────────────────────────────────────────────────── -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=⚔️+Samuel Dharshi+⚔️;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=36&duration=3000&pause=1200&color=C0C0C0&center=true&vCenter=true&width=900&lines=%E2%9A%94%EF%B8%8F+Samuel+Dharshi+%E2%9A%94%EF%B8%8F;THE+THREE+SWORD+STYLE+OF+CODE;I+WILL+NEVER+LOSE+AGAIN." />
 </div>
-<!-- ──────────────────────────────────────────────────────────
-     SUBTITLE TYPING
-     Edit the lines= param to match your actual domains.
-     The "Nothing happened." at the end is Zoro's iconic line — keep it.
-     Color: 708090 = slate steel (secondary tone, lighter than C0C0C0)
-────────────────────────────────────────────────────────────── -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=17&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=800&lines=AI+•+Web3+•+DeFi+•+Blockchain+•+Cybersecurity+•+Full+Stack;Nothing+happened." alt="Domain subtitle animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=4000&pause=1000&color=708090&center=true&vCenter=true&width=800&lines=AI+%E2%80%A2+Generative+AI+%E2%80%A2+Full+Stack+%E2%80%A2+Hackathon+Winner;Nothing+happened." />
 </div>
+
+<br/>
+
+<div align="center">
+
 
 <br/>
 
@@ -59,15 +59,12 @@
 <div align="center">
 
 ```
-███████╗   ██████╗   ██████╗    ██████╗
-╚════██║  ██╔═══██╗  ██╔══██╗  ██╔═══██╗
-    ██╔╝  ██║   ██║  ██████╔╝  ██║   ██║
-   ██╔╝   ██║   ██║  ██╔══██╗  ██║   ██║
-  ██╔╝    ██║   ██║  ██║  ██║  ██║   ██║
- ██╔╝     ██║   ██║  ██║  ██║  ██║   ██║
-███████╗  ╚██████╔╝  ██║  ██║  ╚██████╔╝
-╚══════╝   ╚═════╝   ╚═╝  ╚═╝   ╚═════╝
-
+███████╗ █████╗ ███╗   ███╗██╗   ██╗███████╗██╗     
+██╔════╝██╔══██╗████╗ ████║██║   ██║██╔════╝██║     
+███████╗███████║██╔████╔██║██║   ██║█████╗  ██║     
+╚════██║██╔══██║██║╚██╔╝██║██║   ██║██╔══╝  ██║     
+███████║██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗███████╗
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝
    IDENTITY  :  Samuel Dharshi
    ALIAS     :  The Developer Who Never Gets Lost (he does)
    DOJO      :  LICET
