@@ -232,20 +232,20 @@ const ZoroSango = {
 ────────────────────────────────────────────────────────────── -->
 ## 📊 BATTLE RECORDS — GITHUB STATS
 
-<div align="center">
+## 📊 BATTLE RECORDS — GITHUB STATS
 
-  <!-- Stats card (left) + Streak card (right) — side by side -->
+<div align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SamuelDharhi&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=SamuelDharshi&show_icons=true&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&icon_color=708090&border_color=2a2a3e&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelDharshi&background=0a0a14&border=2a2a3e&fire=C0C0C0&currStreakNum=FFFFFF&ring=708090&currStreakLabel=C0C0C0&sideNums=708090&sideLabels=708090&dates=4a4a5e"
+    src="https://streak-stats.demolab.com/?user=SamuelDharshi&background=0a0a14&border=2a2a3e&fire=C0C0C0&currStreakNum=FFFFFF&ring=708090&currStreakLabel=C0C0C0&sideNums=708090&sideLabels=708090&dates=4a4a5e"
     alt="GitHub Streak"
   />
 </div>
+
 <div align="center">
-  <!-- Top languages card — compact layout, same color scheme -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelDharshi&layout=compact&bg_color=0a0a14&title_color=C0C0C0&text_color=708090&border_color=2a2a3e"
     alt="Top Languages"
