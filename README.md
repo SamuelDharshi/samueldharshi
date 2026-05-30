@@ -47,15 +47,6 @@
 
 <div align="center">
 
-
-<br/>
-
-<!-- ──────────────────────────────────────────────────────────
-     ASCII IDENTITY BLOCK
-     "ZORO SANG" spelled in ASCII block letters.
-     Edit IDENTITY, DOJO, DOMAIN, STATUS to your own info.
-     Keep the ASCII border — it gives the swordsman dojo vibe.
-────────────────────────────────────────────────────────────── -->
 <div align="center">
 
 ```
